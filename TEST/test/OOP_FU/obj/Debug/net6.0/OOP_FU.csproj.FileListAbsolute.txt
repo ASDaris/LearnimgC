@@ -1,0 +1,15 @@
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\bin\Debug\net6.0\OOP_FU.exe
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\bin\Debug\net6.0\OOP_FU.deps.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\bin\Debug\net6.0\OOP_FU.runtimeconfig.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\bin\Debug\net6.0\OOP_FU.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\bin\Debug\net6.0\OOP_FU.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.csproj.AssemblyReference.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.AssemblyInfoInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.AssemblyInfo.cs
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.csproj.CoreCompileInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\refint\OOP_FU.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\OOP_FU.genruntimeconfig.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\OOP_FU\obj\Debug\net6.0\ref\OOP_FU.dll

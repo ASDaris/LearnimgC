@@ -1,0 +1,15 @@
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\bin\Debug\net6.0\ControlFlow.exe
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\bin\Debug\net6.0\ControlFlow.deps.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\bin\Debug\net6.0\ControlFlow.runtimeconfig.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\bin\Debug\net6.0\ControlFlow.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\bin\Debug\net6.0\ControlFlow.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.AssemblyReference.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfoInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.AssemblyInfo.cs
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.csproj.CoreCompileInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\refint\ControlFlow.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ControlFlow.genruntimeconfig.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ControlFlow\obj\Debug\net6.0\ref\ControlFlow.dll

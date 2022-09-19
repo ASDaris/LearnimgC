@@ -1,0 +1,15 @@
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\bin\Debug\net6.0\E_Exception.exe
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\bin\Debug\net6.0\E_Exception.deps.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\bin\Debug\net6.0\E_Exception.runtimeconfig.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\bin\Debug\net6.0\E_Exception.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\bin\Debug\net6.0\E_Exception.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.csproj.AssemblyReference.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.AssemblyInfoInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.AssemblyInfo.cs
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.csproj.CoreCompileInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\refint\E_Exception.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\E_Exception.genruntimeconfig.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\E_Exception\obj\Debug\net6.0\ref\E_Exception.dll

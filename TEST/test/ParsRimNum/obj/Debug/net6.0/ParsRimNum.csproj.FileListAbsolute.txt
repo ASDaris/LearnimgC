@@ -1,0 +1,15 @@
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\bin\Debug\net6.0\ParsRimNum.exe
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\bin\Debug\net6.0\ParsRimNum.deps.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\bin\Debug\net6.0\ParsRimNum.runtimeconfig.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\bin\Debug\net6.0\ParsRimNum.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\bin\Debug\net6.0\ParsRimNum.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.csproj.AssemblyReference.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.AssemblyInfoInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.AssemblyInfo.cs
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.csproj.CoreCompileInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\refint\ParsRimNum.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ParsRimNum.genruntimeconfig.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ParsRimNum\obj\Debug\net6.0\ref\ParsRimNum.dll

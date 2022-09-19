@@ -1,0 +1,15 @@
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\bin\Debug\net6.0\A_HomeworkOOP.exe
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\bin\Debug\net6.0\A_HomeworkOOP.deps.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\bin\Debug\net6.0\A_HomeworkOOP.runtimeconfig.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\bin\Debug\net6.0\A_HomeworkOOP.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\bin\Debug\net6.0\A_HomeworkOOP.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.csproj.AssemblyReference.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.AssemblyInfoInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.AssemblyInfo.cs
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.csproj.CoreCompileInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\refint\A_HomeworkOOP.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\A_HomeworkOOP.genruntimeconfig.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\A_HomeworkOOP\obj\Debug\net6.0\ref\A_HomeworkOOP.dll

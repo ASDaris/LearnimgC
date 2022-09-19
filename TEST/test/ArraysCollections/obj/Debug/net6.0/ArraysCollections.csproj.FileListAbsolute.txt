@@ -1,0 +1,15 @@
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\bin\Debug\net6.0\ArraysCollections.exe
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\bin\Debug\net6.0\ArraysCollections.deps.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\bin\Debug\net6.0\ArraysCollections.runtimeconfig.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\bin\Debug\net6.0\ArraysCollections.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\bin\Debug\net6.0\ArraysCollections.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.csproj.AssemblyReference.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.AssemblyInfoInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.AssemblyInfo.cs
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.csproj.CoreCompileInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\refint\ArraysCollections.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ArraysCollections.genruntimeconfig.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\ArraysCollections\obj\Debug\net6.0\ref\ArraysCollections.dll

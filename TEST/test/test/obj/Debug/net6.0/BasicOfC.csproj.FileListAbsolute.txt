@@ -1,0 +1,15 @@
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\bin\Debug\net6.0\BasicOfC.exe
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\bin\Debug\net6.0\BasicOfC.deps.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\bin\Debug\net6.0\BasicOfC.runtimeconfig.json
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\bin\Debug\net6.0\BasicOfC.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\bin\Debug\net6.0\BasicOfC.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.csproj.AssemblyReference.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.GeneratedMSBuildEditorConfig.editorconfig
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.AssemblyInfoInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.AssemblyInfo.cs
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.csproj.CoreCompileInputs.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\refint\BasicOfC.dll
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.pdb
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\BasicOfC.genruntimeconfig.cache
+D:\ProgramMyAss\Git\Repo\Learning\Numerals\TEST\test\test\obj\Debug\net6.0\ref\BasicOfC.dll
