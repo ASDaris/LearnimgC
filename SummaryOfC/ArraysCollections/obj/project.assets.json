@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ArraysCollections\\ArraysCollections.csproj",
+      "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ArraysCollections\\ArraysCollections.csproj",
       "projectName": "ArraysCollections",
-      "projectPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ArraysCollections\\ArraysCollections.csproj",
+      "projectPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ArraysCollections\\ArraysCollections.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ArraysCollections\\obj\\",
+      "outputPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ArraysCollections\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

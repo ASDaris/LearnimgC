@@ -21,4 +21,17 @@
 
 На каждой попытке , благодаря так стратегии, диапазон поиска сужается в два раза. Это и есть суть бинарного поиска. 
 В конце игры выводится информация о том достигнута ли победа или нет. Конечно же, будет необходимо реализовать диалог между игроками.*/
+namespace QuessANumber
+{
+    class Programm
+    {
+        static void Main(string[] args)
+        {
+            GuessANUmber game = new GuessANUmber(guessingPlayer: GuessingPlayer.Human);
+            game.Start();
+
+            Console.WriteLine();
+        }
+    }
+}
 

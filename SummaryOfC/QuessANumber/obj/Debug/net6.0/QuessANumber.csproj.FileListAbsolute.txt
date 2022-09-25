@@ -1,0 +1,15 @@
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\bin\Debug\net6.0\QuessANumber.exe
+C:\Users\HP\source\repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\bin\Debug\net6.0\QuessANumber.deps.json
+C:\Users\HP\source\repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\bin\Debug\net6.0\QuessANumber.runtimeconfig.json
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\bin\Debug\net6.0\QuessANumber.dll
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\bin\Debug\net6.0\QuessANumber.pdb
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.csproj.AssemblyReference.cache
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.AssemblyInfoInputs.cache
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.AssemblyInfo.cs
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.csproj.CoreCompileInputs.cache
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.dll
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\refint\QuessANumber.dll
+C:\Users\HP\Source\Repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.pdb
+C:\Users\HP\source\repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\QuessANumber.genruntimeconfig.cache
+C:\Users\HP\source\repos\ASDaris\LearnimgC\SummaryOfC\QuessANumber\obj\Debug\net6.0\ref\QuessANumber.dll

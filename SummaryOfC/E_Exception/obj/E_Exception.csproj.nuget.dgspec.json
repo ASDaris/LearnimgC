@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\E_Exception\\E_Exception.csproj": {}
+    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\E_Exception\\E_Exception.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\E_Exception\\E_Exception.csproj": {
+    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\E_Exception\\E_Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\E_Exception\\E_Exception.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\E_Exception\\E_Exception.csproj",
         "projectName": "E_Exception",
-        "projectPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\E_Exception\\E_Exception.csproj",
+        "projectPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\E_Exception\\E_Exception.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\E_Exception\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\E_Exception\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

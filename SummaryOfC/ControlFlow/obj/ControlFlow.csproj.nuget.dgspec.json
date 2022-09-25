@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ControlFlow\\ControlFlow.csproj": {}
+    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ControlFlow\\ControlFlow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ControlFlow\\ControlFlow.csproj": {
+    "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ControlFlow\\ControlFlow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ControlFlow\\ControlFlow.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ControlFlow\\ControlFlow.csproj",
         "projectName": "ControlFlow",
-        "projectPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ControlFlow\\ControlFlow.csproj",
+        "projectPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ControlFlow\\ControlFlow.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\TEST\\test\\ControlFlow\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Source\\Repos\\ASDaris\\LearnimgC\\SummaryOfC\\ControlFlow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
